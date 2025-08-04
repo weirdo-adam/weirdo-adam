@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi there 👋 I'm weirdo-adam
 
-<!--
-**weirdo-adam/weirdo-adam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 **Profession:** 开发工程师 (Developer Engineer)  
+💡 **Top Skill:** Java
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+Hello! I’m weirdo-adam, a passionate developer engineer specializing in Java. I love building robust and scalable solutions, and I'm always eager to learn new technologies and improve my craft.
+
+---
+
+## 🛠️ Skills
+
+- **Java** (Core | Web | Frameworks)
+- Problem Solving & System Design
+- Continuous Learning
+
+---
+
+## 🌱 What I’m Working On
+
+I enjoy working on projects that challenge me and help me grow as a developer. If you want to know more about my recent work or collaborate, feel free to reach out!
+
+---
+
+## 📫 Connect with Me
+
+Want to connect or collaborate?  
+Feel free to [open an issue](https://github.com/weirdo-adam/weirdo-adam/issues) or leave a message!
+
+---
+
+> **Everything is code**
