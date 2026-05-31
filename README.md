@@ -1,7 +1,6 @@
 # Hi there 👋 I'm weirdo-adam
 
 👨‍💻 **Profession:** 开发工程师 (Developer Engineer)  
-💡 **Top Skill:** Java
 
 ---
 
@@ -13,7 +12,6 @@ Hello! I’m weirdo-adam, a passionate developer engineer specializing in Java. 
 
 ## 🛠️ Skills
 
-- **Java** (Core | Web | Frameworks)
 - Problem Solving & System Design
 - Continuous Learning
 
