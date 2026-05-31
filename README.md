@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-Hello! I’m weirdo-adam, a passionate developer engineer specializing in Java. I love building robust and scalable solutions, and I'm always eager to learn new technologies and improve my craft.
+Hello! I’m weirdo-adam, I love building robust and scalable solutions, and I'm always eager to learn new technologies and improve my craft.
 
 ---
 
