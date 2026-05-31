@@ -10,13 +10,6 @@ Hello! I’m weirdo-adam, I love building robust and scalable solutions, and I'm
 
 ---
 
-## 🛠️ Skills
-
-- Problem Solving & System Design
-- Continuous Learning
-
----
-
 ## 🌱 What I’m Working On
 
 I enjoy working on projects that challenge me and help me grow as a developer. If you want to know more about my recent work or collaborate, feel free to reach out!
