@@ -1,26 +1,21 @@
-# Hi there 👋 I'm weirdo-adam
+# Hi, I'm weirdo-adam 👋
 
-👨‍💻 **Profession:** 开发工程师 (Developer Engineer)  
+[中文](#中文) | [English](#english)
 
----
+## 中文
 
-## 🚀 About Me
+开发工程师，喜欢用代码把天马行空的想法变成可以运行的东西。
 
-Hello! I’m weirdo-adam, I love building robust and scalable solutions, and I'm always eager to learn new technologies and improve my craft.
+热衷尝试新技术，探索不同的解决方案，也持续打磨稳定、可扩展的工程实践。
 
----
+[联系我](https://github.com/weirdo-adam/weirdo-adam/issues)
 
-## 🌱 What I’m Working On
+## English
 
-I enjoy working on projects that challenge me and help me grow as a developer. If you want to know more about my recent work or collaborate, feel free to reach out!
+Developer Engineer who enjoys turning wild ideas into working software.
 
----
+I like exploring new technologies, trying fresh approaches, and improving robust, scalable engineering practices.
 
-## 📫 Connect with Me
+[Connect with me](https://github.com/weirdo-adam/weirdo-adam/issues)
 
-Want to connect or collaborate?  
-Feel free to [open an issue](https://github.com/weirdo-adam/weirdo-adam/issues) or leave a message!
-
----
-
-> **Everything is code**
+> Everything is code.
